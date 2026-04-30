@@ -1,6 +1,4 @@
-# 🚀 Projeto Spring Boot - Do Zero ao Deploy
-
-Este projeto foi desenvolvido com base em um curso completo de Spring Boot, com o objetivo de levar o desenvolvedor do nível básico até um nível profissional, abordando desde fundamentos até deploy em produção na nuvem.
+# 🚀 Projeto Spring Boot Expert
 
 ---
 
